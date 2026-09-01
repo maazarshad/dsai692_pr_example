@@ -4,4 +4,4 @@
 
 | Tool | What it does |
 | --- | --- |
-| shout | Uppercases the text |
+| wordcount | Return the number of words in TEXT. |
