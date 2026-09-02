@@ -12,8 +12,8 @@ from tools.reverse import reverse
 
 TOOLS = {
     "shout": shout,
-    "initials": initials
-    "wordcount": word_count
+    "initials": initials,
+    "wordcount": word_count,
     "reverse": reverse
 }
 
