@@ -4,4 +4,4 @@
 
 | Tool | What it does |
 | --- | --- |
-| shout | Uppercases the text |
+| initials | Return the initials of each word in TEXT. |
