@@ -5,12 +5,14 @@ import sys
 # --- IMPORT BLOCK --------------------------------------------------
 # Add your import at the END of this block, on the line above the dashes.
 from tools.shout import shout
+from tools.initials import initials
 from tools.wordcount import word_count
 from tools.reverse import reverse
 # -------------------------------------------------------------------
 
 TOOLS = {
     "shout": shout,
+    "initials": initials
     "wordcount": word_count
     "reverse": reverse
 }
