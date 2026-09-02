@@ -4,4 +4,4 @@
 
 | Tool | What it does |
 | --- | --- |
-| shout | Uppercases the text |
+| reverse | returns the reversed string |
